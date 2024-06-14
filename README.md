@@ -70,6 +70,7 @@ Platform Features:
 		Detailed Reports: Generate comprehensive reports on attendance data, including timestamps and access logs.
 
 Benefits:
+
 		1.Improved Efficiency: Streamlines attendance recording and access control processes.
 		
 		2.Enhanced Security: Provides secure access control and identification, especially in high-security areas.
