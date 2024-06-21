@@ -1,20 +1,34 @@
-EdgeAttend Apps
+# EdgeAttend Apps
 
-Title - Secure and Efficient Attendance Management with Edge AI Face Detection
+**Title:-** Secure and Efficient Attendance Management with Edge AI Face Detection
 
-Language Used: - Kotlin with Jetpack Compose
+**Language Used:-** Kotlin with Jetpack Compose
 
-Technology Used: - Tensorflow lite Face recognition
+**Technology Used:-** Tensorflow lite Face recognition
 
-Core Technology:
+**Core Technology:**
 
 Edge AI Face Detection: A pre-trained deep learning model embedded directly on the tablet or phone camera performs real-time face detection. This eliminates the need for constant internet connection and ensures data privacy as facial recognition calculations occur locally on the device.
 Facial Recognition (Optional): For enhanced security, especially in high-security areas, facial recognition can be integrated as a secondary layer. This requires a pre-enrolled database of authorized personnel's faces and compares them to detected faces in real-time.
 
+**Screen Shots**
 
-Use Cases:
+<p align="middle">
+  <img src="screenshots/1.png" width="200" />
+  <img src="screenshots/2.png" width="200" />
+  <img src="screenshots/3.png" width="200" />
+  <img src="screenshots/4.png" width="200" />
+</p>
+
+<p align="middle">
+  <img src="screenshots/4.png" width="200" />
+  <img src="screenshots/5.png" width="200" />
+</p>
+
+**Use Cases:**
 
 1.Schools:
+
 Benefits:
 		Streamline student attendance recording, eliminating manual processes and paper logs.
 		Improve accuracy and reduce errors in attendance data.
@@ -69,7 +83,7 @@ Platform Features:
 		Centralized Management: A central server manages user enrollment, access control settings, and data synchronization across devices (optional for offline deployments).
 		Detailed Reports: Generate comprehensive reports on attendance data, including timestamps and access logs.
 
-Benefits:
+**Benefits:**
 
 		1.Improved Efficiency: Streamlines attendance recording and access control processes.
 		
@@ -83,3 +97,10 @@ Benefits:
 
 This AI-powered face detection platform offers a versatile and secure solution for attendance management and access control across various scenarios. By leveraging Edge AI technology, it provides a reliable and efficient way to manage personnel movement while maintaining data privacy and security.
 
+**Support**
+
+For any issues or support, please contact:
+
+*Email:* hello@vite.biz
+
+*Website:* https://www.vite.biz/
